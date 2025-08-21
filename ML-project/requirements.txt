@@ -1,0 +1,17 @@
+pandas
+numpy
+scikit-learn
+joblib
+opencv-python-headless
+pillow
+fastapi
+uvicorn
+python-multipart
+fastapi
+uvicorn
+scikit-learn
+pandas
+numpy
+joblib
+opencv-python-headless
+pillow

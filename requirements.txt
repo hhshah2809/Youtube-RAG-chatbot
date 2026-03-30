@@ -1,0 +1,21 @@
+# Core LangChain packages
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+langchain-google-genai
+
+# Vector store
+faiss-cpu
+
+# Tokenization
+tiktoken
+
+# Environment variable management
+python-dotenv
+
+# YouTube transcript fetching
+youtube-transcript-api
+
+#free embeddings
+language sentence-transformers
